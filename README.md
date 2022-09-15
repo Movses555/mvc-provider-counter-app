@@ -1,6 +1,6 @@
-# untitled
+# Counter App
 
-A new Flutter project.
+Default Flutter counter app with MVC design pattern and state management Provider package
 
 ## Getting Started
 
